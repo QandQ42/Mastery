@@ -14,7 +14,5 @@ They are there to get you further on your learning journey!
 1. Do **NOT** respond with the solution directly
 2. Reply with a question that guides towards the right answer
 
-## All INTERNSHIP projects
-### [Full-time](https://github.com/QandQ42/Internship/discussions/1)
-### [Part-time](https://github.com/QandQ42/Internship/discussions/2)
-### [Startup](https://github.com/QandQ42/Internship/discussions/3)
+## All MASTERY AI projects
+### [AI](https://github.com/QandQ42/Internship/discussions/1)
