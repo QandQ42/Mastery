@@ -15,4 +15,4 @@ They are there to get you further on your learning journey!
 2. Reply with a question that guides towards the right answer
 
 ## All MASTERY AI projects
-### [AI](https://github.com/QandQ42/Internship/discussions/1)
+### [AI](https://github.com/QandQ42/Mastery-AI/discussions/1)
